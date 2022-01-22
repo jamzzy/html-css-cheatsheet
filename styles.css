@@ -1,11 +1,48 @@
+body {
+    background-color: rgb(12, 12, 12);
+}
+
+h1, h2 {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: white;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 16px;
+
+}
 pre {
     overflow-x: auto;
     background-color: rgb(77, 74, 74);
     color: white;
-    counter-reset: line;
+    padding-top: 10px;
+    border-radius: 25px
 }
 
-.symbol {
+code {
+    counter-reset: line;
+    font-family: "Lucida Console", Courier, monospace;
+}
+
+.code-line::before {
+    counter-increment: line;
+    content: counter(line);
+    text-align: right;
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 18px;
+    font-size: 12px;
+
+}
+
+.symbol, .code-line {
     color:rgb(201, 192, 192);
 }
 
@@ -15,4 +52,12 @@ pre {
 
 .attribute {
     color:rgb(135, 204, 250);
+}
+
+.comment {
+    color: greenyellow;
+}
+
+.value {
+    color: orange;
 }
