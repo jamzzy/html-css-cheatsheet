@@ -9,9 +9,9 @@ A simple website that contains a template for a basic html file.
 
 ### Introduction
 
-This website was created to practice the html and css concepts learned in Codecademy with the purpose of creating some sort of cheatsheet for these concepts. 
+This website was created to practice the html and css concepts learned in Codecademy with the purpose of creating some sort of cheat sheet for these concepts. 
 
-This cheatsheet contains a basic html template the user can copy and use. It is presented to the user in the form of a code snippet from an ide, all built using html and css. 
+This cheat sheet contains a basic html template the user can copy and use. It is presented to the user in the form of a code snippet from an ide, all built using html and css. 
 
 ### Technologies
 Project is created with:
