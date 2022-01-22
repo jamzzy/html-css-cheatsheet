@@ -2,6 +2,8 @@
 
 A simple website that contains a template for a basic html file. 
 
+[Check it out here!](https://jamzzy.github.io/html-css-cheatsheet/)
+
 ## Table Of Contents
 * [Introduction](#Introduction)
 * [Technologies](#Technologies)
