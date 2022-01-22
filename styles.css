@@ -1,0 +1,18 @@
+pre {
+    overflow-x: auto;
+    background-color: rgb(77, 74, 74);
+    color: white;
+    counter-reset: line;
+}
+
+.symbol {
+    color:rgb(201, 192, 192);
+}
+
+.tagname {
+    color:rgb(64, 115, 224);
+}
+
+.attribute {
+    color:rgb(135, 204, 250);
+}
