@@ -17,8 +17,8 @@ This cheat sheet contains a basic html template the user can copy and use. It is
 
 ### Technologies
 Project is created with:
-* HTML5
-* CSS4
+* HTML 5
+* CSS 3
 
 ### Sources
 This is a project called *Challenge Project: Build Your Own Cheat Sheet* from the Codecademy Full-Stack Engineer career path. The colour scheme for the code snippet was inspired from the default colour scheme in VSCode. 
